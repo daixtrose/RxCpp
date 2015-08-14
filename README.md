@@ -9,6 +9,8 @@ Linux & OSX: [![Linux & Osx Status](http://img.shields.io/travis/Reactive-Extens
 
 # Reactive Extensions:
 
+[![Join the chat at https://gitter.im/daixtrose/RxCpp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/daixtrose/RxCpp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Rx.NET: The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators.
 * RxJS: The Reactive Extensions for JavaScript (RxJS) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators in JavaScript which can target both the browser and Node.js.
 * RxCpp: The Reactive Extensions for Native (RxC) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators in both C and C++.
